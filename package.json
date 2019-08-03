@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Lexscher/npm-lab-dumbo-web-060319#readme",
   "dependencies": {
-    "learn-browser": "^0.1.24"
+    "learn-browser": "^0.1.24",
+    "moment": "^2.24.0"
   }
 }
